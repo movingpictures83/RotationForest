@@ -1,0 +1,2 @@
+Prefix plugins/RotationForest/example/
+Plugin RotationForest inputfile parameters.train.txt outputfile output.rds
